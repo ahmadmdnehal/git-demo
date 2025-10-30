@@ -3,7 +3,11 @@ public class Test{
         System.out.println("This is a test file.");
 
         for (int i = 1; i <= 10; i++) {
-            System.out.println("Amit Kumar Bhadana: " + i);
+            System.out.print("java"+" ");
+        }
+        System.out.println();
+        for (int i = 1; i <= 10; i++) {
+            System.out.print("Hello Buddy"+" ");
         }
     }
 }
