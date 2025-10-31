@@ -4,7 +4,8 @@ public class Test_1 {
         printPattern(n);
         printPattern1(n);
         printPattern2(n);
-        
+        System.out.prin;
+      
     }  
 
 
