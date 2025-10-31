@@ -1,6 +1,6 @@
 public class Test_1 {
   public static void main(String[] args) {
-        int n = 10; // you can change the size here
+        int n = 5; // you can change the size here
         printPattern(n);
         printPattern1(n);
         printPattern2(n);
