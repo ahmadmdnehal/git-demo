@@ -1,10 +1,10 @@
 public class Test_3 {
     public static void main(String[] args) {
         
-     int n = 15; // number of rows (you can change)
+     int n = 20; // number of rows (you can change)
 
         // upper half
-        for (intttttt i = 1; i <= n; i++) {
+        for (int i = 1; i <= n; i++) {
             // left stars
             for (int j = 1; j <= i; j++) {
                 System.out.print("*");
