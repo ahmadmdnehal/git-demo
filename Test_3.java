@@ -4,7 +4,7 @@ public class Test_3 {
      int n = 15; // number of rows (you can change)
 
         // upper half
-        for (intttt i = 1; i <= n; i++) {
+        for (intttttt i = 1; i <= n; i++) {
             // left stars
             for (int j = 1; j <= i; j++) {
                 System.out.print("*");
