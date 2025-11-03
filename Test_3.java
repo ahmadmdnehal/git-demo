@@ -1,7 +1,7 @@
 public class Test_3 {
     public static void main(String[] args) {
         
-     int n = 12; // number of rows (you can change)
+     int n = 15; // number of rows (you can change)
 
         // upper half
         for (int i = 1; i <= n; i++) {
